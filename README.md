@@ -5,7 +5,6 @@ A serverless pipeline built with the AWS CLI and Python. A Lambda function impor
 
 - **Region used:** us-east-1
 - **Date completed:** 2026-11-26
-- Original assignment text: [ASSIGNMENT_INSTRUCTIONS.md](ASSIGNMENT_INSTRUCTIONS.md)
 
 ## 1. Architecture
 
@@ -63,7 +62,6 @@ A serverless pipeline built with the AWS CLI and Python. A Lambda function impor
 ```text
 .
 ├── README.md                    <- this report
-├── ASSIGNMENT_INSTRUCTIONS.md   <- original assignment text
 ├── lambda_src/
 │   ├── import_users/lambda_function.py
 │   └── backup_users/lambda_function.py
